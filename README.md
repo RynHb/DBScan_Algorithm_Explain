@@ -1,6 +1,7 @@
 # DBScan Algorithm Explained 📊
 
-This repository contains educational materials to help you understand the DBScan (Density-Based Spatial Clustering of Applications with Noise) algorithm. The aim is to provide both theoretical understanding and practical examples through PowerPoint slides and Python code.
+This repository contains educational materials to help you understand the DBScan (Density-Based Spatial Clustering of Applications with Noise) algorithm. The aim is to provide both theoretical understanding and practical examples through PowerPoint slides and Python code. The content is a collaborative effort by [Rayan Aloufi](https://github.com/RynHb) and [Abdulmohsen Albareed](https://github.com/AbdulmohsenAlbareed). The aim is to provide both theoretical understanding and practical examples through PowerPoint slides and Python code.
+
 
 ## Contents 📂
 
