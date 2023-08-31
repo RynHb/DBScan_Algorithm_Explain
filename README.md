@@ -5,7 +5,7 @@ This repository contains educational materials to help you understand the DBScan
 
 ## Contents 📂
 
-- **Slides**: Explore the PowerPoint slides (e.g., "DBScan_Algorithm_Slides.pptx") to gain insights into the theoretical concepts of the DBScan algorithm, its key components, advantages, and limitations.
+- **Slides**: Explore the PowerPoint slides (e.g., "DBScan_Algorithm_Slides.pdf") to gain insights into the theoretical concepts of the DBScan algorithm, its key components, advantages, and limitations.
 
 - **Code Example**: The Python code example (e.g., "DBScan_Example.ipynb") demonstrates how to use the DBScan algorithm for clustering using a real or synthetic dataset. The example includes data preprocessing, model application, and visualization of the results using scatter plots.
 
